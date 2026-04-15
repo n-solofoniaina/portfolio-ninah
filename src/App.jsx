@@ -89,8 +89,8 @@ export default function App() {
       "Scala",
     ],
     web: ["React", "HTML", "CSS", "API REST", "Node.js", "Vue.js"],
-    systemes: ["Linux", "TCP/IP", "DNS", "DHCP", "Docker"],
-    securite: ["Nmap", "Metasploit", "Snort", "Wireshark", "GNS3", "iptables"],
+    systèmes: ["Linux", "TCP/IP", "DNS", "DHCP", "Docker"],
+    sécurité: ["Nmap", "Metasploit", "Snort", "Wireshark", "GNS3", "iptables"],
     support: [
       "Diagnostic",
       "Résolution de problèmes",
@@ -273,7 +273,7 @@ export default function App() {
                 <div className="rounded-2xl bg-[#fff4c9] p-5">
                   <p className="text-sm text-slate-600">Ce que j’aime</p>
                   <p className="mt-2 font-semibold">
-                    Concevoir, sécuriser, comprendre
+                    Comprendre,concevoir, sécuriser
                   </p>
                 </div>
 

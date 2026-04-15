@@ -273,7 +273,7 @@ export default function App() {
                 <div className="rounded-2xl bg-[#fff4c9] p-5">
                   <p className="text-sm text-slate-600">Ce que j’aime</p>
                   <p className="mt-2 font-semibold">
-                    Comprendre,concevoir, sécuriser
+                    Comprendre, concevoir, sécuriser
                   </p>
                 </div>
 
